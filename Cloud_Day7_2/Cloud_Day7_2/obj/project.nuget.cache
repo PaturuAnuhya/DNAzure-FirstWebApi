@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rowFcEYPBp11U9pXljvIUirW/Nechikq2bOCD03Dfx39isUxsiOcnxf7FiooL+zukR0xoGbgYID2bsYuk08uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anuhya\\Desktop\\DNAzure-FirstWebApi\\Cloud_Day7_2\\Cloud_Day7_2\\Cloud_Day7_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anuhya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Anuhya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
